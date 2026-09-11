@@ -1,4 +1,4 @@
-This is an old project I worked on in 2024 which performs linear regression on a dataset using backpropagation.
+##This is an old project I worked on in 2024 which performs linear regression on a dataset using backpropagation.##
 
 Equation of a line 
 
