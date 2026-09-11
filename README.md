@@ -6,7 +6,7 @@ $$\hat{y} = b_1x + b_0$$
 
 Mean square error loss 
 
-$$L_{MSE} = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y})^2$$
+$$L_{MSE} = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y}_i)^2$$
 
 Gradient of loss wrt $$b_1$$ 
 
